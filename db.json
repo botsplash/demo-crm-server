@@ -1,0 +1,89 @@
+{
+  "visitors": [
+    {
+      "handle": "BO-BXMSR1",
+      "firstName": "Visitor1",
+      "lastName": "Test1",
+      "email": "v1t1@mailinator.com",
+      "state": "NC",
+      "integrationId": "0a6a2da4-d93d-449c-9e93-7cae272c41a0",
+      "channelId": "06fa1efd-84fc-4246-8a47-87d88fcf89da",
+      "channelName": "apply.lender.com",
+      "channelTypeId": 5,
+      "chatTranscript": "Chat Transcript:\n2019-12-30 08:42 pm - Ricky Bobby: okay\n2019-05-25 09:14 am - Ricky Bobby: Ricky Bobby joined chat\n2019-05-25 09:14 am - Ricky Bobby: Hi there\n2019-05-25 09:14 am - Visitor1 Test1 @BO-BXMSR: Connecting with an agent\n2019-05-25 09:14 am - Visitor1 Test1 @BO-BXMSR: yo\n2019-05-25 09:14 am - Visitor1 Test1 @BO-BXMSR: Onboarding agent.\n2019-05-25 09:14 am - Visitor1 Test1 @BO-BXMSR: koka\n",
+      "userId": "3",
+      "agentName": "Ricky Bobby",
+      "agentClientUserId": "rbobby",
+      "id": "Rsr1WO0",
+      "createdAt":"2019-05-25T09:14:05.771Z",
+      "updatedAt":"2019-05-25T09:15:21.771Z"
+    },
+    {
+      "handle": "BO-BXMSR2",
+      "firstName": "Visitor2",
+      "lastName": "Test2",
+      "email": "v2t2@mailinator.com",
+      "state": "NC",
+      "integrationId": "0a6a2da4-d93d-449c-9e93-7cae272c41a0",
+      "channelId": "06fa1efd-84fc-4246-8a47-87d88fcf89da",
+      "channelName": "cardelaer.com",
+      "channelTypeId": 5,
+      "chatTranscript": "Chat Transcript:\n2019-12-30 08:42 pm - Twinkle Agent: okay\n2019-05-25 09:14 am - Twinkle Agent: Twinkle Agent joined chat\n2019-05-25 09:14 am - Twinkle Agent: Hi there\n2019-05-25 09:14 am - Visitor2 Test2 @BO-BXMSR: Connecting with an agent\n2019-05-25 09:14 am - Visitor2 Test2 @BO-BXMSR: yo\n2019-05-25 09:14 am - Visitor2 Test2 @BO-BXMSR: Onboarding agent.\n2019-05-25 09:14 am - Visitor2 Test2 @BO-BXMSR: koka\n",
+      "userId": "3",
+      "agentName": "Twinkle Agent",
+      "agentClientUserId": "tagent",
+      "id": "WO1xOsi",
+      "createdAt":"2019-05-25T09:17:55.771Z",
+      "updatedAt":"2019-05-25T09:18:12.771Z"
+    },
+    {
+      "handle": "BO-BXMSR3",
+      "firstName": "Visitor3",
+      "lastName": "Test3",
+      "email": "v3t3@mailinator.com",
+      "phoneNumber": "+17041112222",
+      "state": "NC",
+      "integrationId": "0a6a2da4-d93d-449c-9e93-7cae272c41a0",
+      "channelId": "06fa1efd-84fc-4246-8a47-87d88fcf89da",
+      "channelName": "Sales SMS",
+      "channelTypeId": 6,
+      "deliveryStatus": 201,
+      "chatTranscript": "Chat Transcript:\n2019-12-30 08:42 pm - Joe Blair: okay\n2019-05-25 09:14 am - Joe Blair: Joe Blair joined chat\n2019-05-25 09:14 am - Joe Blair: Hi there\n2019-05-25 09:14 am - Visitor3 Test3 @BO-BXMSR: Connecting with an agent\n2019-05-25 09:14 am - Visitor3 Test3 @BO-BXMSR: yo\n2019-05-25 09:14 am - Visitor3 Test3 @BO-BXMSR: Onboarding agent.\n2019-05-25 09:14 am - Visitor3 Test3 @BO-BXMSR: koka\n",
+      "userId": "3",
+      "agentName": "Joe Blair",
+      "agentClientUserId": "jblair",
+      "id": "ig1x30s",
+      "createdAt":"2019-05-25T09:21:45.771Z",
+      "updatedAt":"2019-05-25T09:21:52.771Z"
+    }
+  ],
+  "agents": [
+    {
+      "id": "11",
+      "clientUserId": "jblair",
+      "licenseId": "1235",
+      "firstName": "Joe",
+      "lastName": "Blair",
+      "fullName": "Joe Blair",
+      "email": "jblair@botsplash.com"
+    },
+    {
+      "id": "52",
+      "clientUserId": "tagent",
+      "licenseId": "2342",
+      "firstName": "Twinkle",
+      "lastName": "Agent",
+      "fullName": "Twinkle Agent",
+      "email": "tagent@botsplash.com"
+    },
+    {
+      "id": "32",
+      "clientUserId": "rbobby",
+      "licenseId": "2165",
+      "firstName": "Ricky",
+      "lastName": "Bobby",
+      "fullName": "Ricky Bobby",
+      "email": "rbobby@botsplash.com"
+    }
+  ]
+}
